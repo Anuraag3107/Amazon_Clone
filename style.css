@@ -254,9 +254,13 @@ ul p{
 }
 
 .foot_option{
-    padding-top: 25px;
+    padding-top: 20px;
 }
 
 .foot_copyright{
     padding: 5px;
+}
+
+.foot_option a {
+    margin-right: 15px;
 }
